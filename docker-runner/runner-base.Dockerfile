@@ -1,4 +1,4 @@
-FROM golang:1.9
+FROM golang:1.20.10
 # Base image that already has the pre-requisites downloaded.
 
 WORKDIR /go/src/github.com/zmap
